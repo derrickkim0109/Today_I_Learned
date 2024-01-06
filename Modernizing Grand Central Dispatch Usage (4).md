@@ -1,7 +1,7 @@
 <h1><center> Modernizing Grand Central Dispatch Usage(4) </center></h1>
 
 ###### tags: `💻 WWDC 스터디`, `💻 TIL`, `GCD`
-###### date: `2024-01-05T15:12:33.284Z`
+###### date: `2024-01-06T15:12:33.284Z`
 
 > [color=#724cd1][name=데릭]
 > [Modernizing Grand Central Dispatch Usage - wwdc17](https://developer.apple.com/videos/play/wwdc2017/706/)
