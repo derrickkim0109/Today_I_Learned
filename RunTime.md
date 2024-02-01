@@ -1,14 +1,14 @@
 <h1><center> Run Time </center></h1>
 
 ###### tags: `💻 TIL`, `Time Complexity`, `Run Time`
-###### date: `2024-01-16T15:12:33.284Z`
+###### date: `2024-02-01T15:12:33.284Z`
 
 > [color=#724cd1][name=데릭]
 > [시간복잡도 - nossi.dev](https://www.nossi.dev/cote/timecomplexity)
 
 # 개요 
 
-> 남도씨가 만든 Nossi.DEV에서 시간복잡도의 설명을 읽고 따라 써보면서 학습하자. 시간복잡도에 대해 학습하기 전에, Run Time에 대해 알 필요가 있다.
+> 개발남노씨가 만든 Nossi.DEV에서 시간복잡도의 설명을 읽고 따라 써보면서 학습하자. 시간복잡도에 대해 학습하기 전에, Run Time에 대해 알 필요가 있다.
 
 ## Run Time
 
