@@ -5,7 +5,7 @@
 
 > [color=#724cd1][name=데릭]
 > [Nossi.DEV](https://www.nossi.dev/c7d72557-2e54-4523-9946-9c4b83ca5044)
-> [Queue - 위키백과]()
+> [Queue - 위키백과](https://ko.wikipedia.org/wiki/%ED%81%90_(%EC%9E%90%EB%A3%8C_%EA%B5%AC%EC%A1%B0))
 
 ## Queue
 
