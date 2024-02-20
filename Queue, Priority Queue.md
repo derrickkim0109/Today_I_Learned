@@ -156,6 +156,26 @@ struct Heap<T: Comparable> {
         siftDown(from: 1)
         return poppedElement
     }
+    
+    
+    func printHeap() {
+       var level = 1
+       var nodesToPrint = 1
+       var nodesPrinted = 1
+ 
+       while nodesPrinted < elements.count {
+           var str = ""
+           for _ in 0..<nodesToPrint {
+               if nodesPrinted < elements.count {
+                  str += "\(elements[nodesPrinted]) "
+                  nodesPrinted += 1
+               }
+           }
+           print("Level \(level): \(str)")
+           nodesToPrint *= 2
+           level += 1
+       }
+     }
 }
 
 extension Heap {
